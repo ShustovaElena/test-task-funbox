@@ -1,4 +1,5 @@
 export type IPackage = {
+    status: string,
     header: string,
     headerHover: string,
     name: string,

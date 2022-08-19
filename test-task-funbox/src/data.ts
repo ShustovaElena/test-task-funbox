@@ -1,5 +1,6 @@
 export const data = [
     {
+        status: "default",
         header: "Сказочное заморское явство",
         headerHover: "Котэ не одобряет?",
         name: "Нямушка",
@@ -13,6 +14,7 @@ export const data = [
         footerDisabled: "Печалька, с фуа-гра закончился.",
     },
     {
+        status: "selected",
         header: "Сказочное заморское явство",
         headerHover: "Котэ не одобряет?",
         name: "Нямушка",
@@ -26,6 +28,7 @@ export const data = [
         footerDisabled: "Печалька, с рыбой закончился.",
     },
     {
+        status: "disabled",
         header: "Сказочное заморское явство",
         headerHover: "Котэ не одобряет?",
         name: "Нямушка",
