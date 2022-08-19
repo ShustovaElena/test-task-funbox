@@ -3,7 +3,11 @@
     src: url(../public/fonts/Exo2.0-Thin.otf);
 }
 
-/* 
+@font-face {
+    font-family: 'Exo2-SemiBold';
+    src: url(../public/fonts/Exo2-SemiBold.ttf);
+}
+
 :root {
-    --name-color: #000000;
-} */
+    --head-color: #ffffff;
+}

@@ -15,10 +15,9 @@
 
 .package-type,
 .package-name {
+    font-family: 'Exo2-SemiBold';
     font-size: 3rem;
-    font-weight: 900;
     letter-spacing: 2px;
-    color: black;
 }
 
 .package-type {
