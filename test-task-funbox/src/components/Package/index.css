@@ -29,3 +29,26 @@
 .package-header {
     padding-bottom: 5px;
 }
+
+.weight {
+    position: absolute;
+    left: 78%;
+    top: 220%;
+    width: 80px;
+    height: 80px;
+    background-color: var(--default-color);
+    border-radius: 50%;
+    color: var(--head-color);
+    font-family: 'Exo2.0-Thin';
+    text-align: center;
+}
+
+.weight-number {
+    font-size: 3rem;
+    font-family: 'Exo2-Light';
+}
+
+.weight-text {
+    margin-top: -10px;
+    font-size: 1.5rem;
+}

@@ -9,6 +9,11 @@ export const Package = () => {
                 <h3 className="package-type">с фуа-гра</h3>
                 <p>10 порций</p>
                 <p>мышь в подарок</p>
+
+                <div className='weight'>
+                    <p className='weight-number'>0,5</p>
+                    <p className='weight-text'>кг</p>
+                </div>
             </div>
         </div>
     );
