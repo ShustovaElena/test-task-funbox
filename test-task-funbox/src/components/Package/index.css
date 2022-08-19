@@ -10,13 +10,13 @@
 .package-text {
     position: absolute;
     left: 70px;
-    top: 50px;
+    top: 30px;
 }
 
 .package-type,
 .package-name {
     font-family: 'Exo2-SemiBold';
-    font-size: 3rem;
+    font-size: 2.9rem;
     letter-spacing: 2px;
 }
 
@@ -33,7 +33,7 @@
 .weight {
     position: absolute;
     left: 78%;
-    top: 220%;
+    top: 370px;
     width: 80px;
     height: 80px;
     background-color: var(--default-color);
