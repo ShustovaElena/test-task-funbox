@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Exo2.0-Thin';
+    src: url(../public/fonts/Exo2.0-Thin.otf);
+}
+
+@font-face {
+    font-family: 'Exo2-SemiBold';
+    src: url(../public/fonts/Exo2-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Exo2-Light';
+    src: url(../public/fonts/Exo2-Light.ttf);
+}
+
+:root {
+    --head-color: #ffffff;
+    --default-color: #1699d9;
+}
