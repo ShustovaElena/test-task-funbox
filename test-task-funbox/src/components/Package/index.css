@@ -1,0 +1,32 @@
+.package {
+    position: relative;
+    width: 350px;
+    height: 520px;
+    background: url('../../../public/back-default.png') no-repeat;
+    overflow: hidden;
+    font-family: 'Exo2.0-Thin';
+}
+
+.package-text {
+    position: absolute;
+    left: 70px;
+    top: 50px;
+}
+
+.package-type,
+.package-name {
+    font-size: 3rem;
+    font-weight: 900;
+    letter-spacing: 2px;
+    color: black;
+}
+
+.package-type {
+    font-size: 1.6rem;
+    letter-spacing: 0;
+    padding-bottom: 10px;
+}
+
+.package-header {
+    padding-bottom: 5px;
+}
