@@ -1,6 +1,6 @@
 export type IPackage = {
     status: string,
-    header: string,
+    headerDefault: string,
     headerHover: string,
     name: string,
     type: string,
@@ -12,3 +12,8 @@ export type IPackage = {
     footerSelected: string,
     footerDisabled: string,
 };
+
+export type IPackageFooter = {
+    colorFooter: string, 
+    textFooter: string,
+}
