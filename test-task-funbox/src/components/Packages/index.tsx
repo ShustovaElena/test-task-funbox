@@ -10,7 +10,7 @@ export const  Packages = () => {
             <div className="packages">
                 {data.map((item: IPackage, index) => {
                     return (
-                    <Package {...item} />
+                    <Package {...item} key={index} />
                     );
                 })}
             </div>

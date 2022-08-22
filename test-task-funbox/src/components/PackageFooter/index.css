@@ -1,0 +1,15 @@
+.package-footer {
+    position: absolute;
+    top: 500px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    color: var(--head-color);
+    font-family: 'Exo2.0-Thin';
+    font-size: 0.8rem;
+}
+
+.package-footer span {
+    color: var(--default-color);
+    border-bottom: 1px dashed var(--default-color);
+}
